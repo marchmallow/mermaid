@@ -1,4 +1,4 @@
-## This diagram is small
+# Learning diagrams with mermaid
 
 ```mermaid
 graph TD;
